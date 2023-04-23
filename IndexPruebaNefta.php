@@ -1,25 +1,19 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<title>Título de la página</title>
-</head>
-<body>
-	<header>
-		<nav>
-			<ul>
-				<li><a href="#">Inicio</a></li>
-				<li><a href="#">Acerca de</a></li>
-				<li><a href="#">Servicios</a></li>
-				<li><a href="#">Productos</a></li>
-				<li><a href="#">Contacto</a></li>
-			</ul>
-		</nav>
-	</header>
-	<main>
-		<!-- Contenido de la página -->
-	</main>
-	<footer>
-		<!-- Pie de página -->
-	</footer>
-</body>
+  <head>
+    <title>Menú en la parte superior</title>
+    <link rel="stylesheet" type="text/css" href="estilos.css">
+  </head>
+  <body>
+    <nav>
+      <ul>
+        <li><a href="#">Inicio</a></li>
+        <li><a href="#">Nosotros</a></li>
+        <li><a href="#">Servicios</a></li>
+        <li><a href="#">Contacto</a></li>
+      </ul>
+    </nav>
+    <h1>Bienvenidos al sitio web</h1>
+    <p>Este es el contenido de la página web</p>
+  </body>
 </html>
